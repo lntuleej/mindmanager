@@ -1,2 +1,2 @@
 # mindmanager
-paper mindmap
+***paper mindmap***
